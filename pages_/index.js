@@ -1,4 +1,3 @@
-// import Head from 'next/head'
 import Main from '../components/hero/Main';
 import Advantages from '../components/hero/Advantages';
 import Story from '../components/hero/Story';

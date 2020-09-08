@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
-import Link from 'next-translate/Link'
-import useTranslation from 'next-translate/useTranslation'
+import Link from 'next-translate/Link';
+import useTranslation from 'next-translate/useTranslation';
 import styled from 'styled-components/macro';
 
 import Logo from '../icons/Logo';
@@ -150,17 +150,17 @@ function Navbar() {
       </NavbarAdaptiveMenu>
       <NavbarMenu showMobileNav={showMobileNav}>
         <NavbarButton>
-          <Link  href="/" lang="pl">
+          <Link href="/" lang="pl">
             {showMobileNav ? <Heading4>PL</Heading4> : <Heading5>PL</Heading5>}
           </Link>
         </NavbarButton>
         <NavbarButton>
-          <Link  href="/" lang="en">
+          <Link href="/" lang="en">
             {showMobileNav ? <Heading4>EN</Heading4> : <Heading5>EN</Heading5>}
           </Link>
         </NavbarButton>
         <NavbarButton>
-          <Link  href="/" lang="ru">
+          <Link href="/" lang="ru">
             {showMobileNav ? <Heading4>RU</Heading4> : <Heading5>RU</Heading5>}
           </Link>
         </NavbarButton>

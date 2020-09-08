@@ -1,6 +1,6 @@
 import React from 'react';
 import styled from 'styled-components/macro';
-import useTranslation from 'next-translate/useTranslation'
+import useTranslation from 'next-translate/useTranslation';
 
 import { Heading2 as StoryTitle, Heading4, Text } from '../general/Headings';
 

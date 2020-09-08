@@ -1,6 +1,6 @@
 import React from 'react';
 import styled from 'styled-components/macro';
-import useTranslation from 'next-translate/useTranslation'
+import useTranslation from 'next-translate/useTranslation';
 
 import { primaryColor } from '../../constants/websiteColors';
 
@@ -123,10 +123,17 @@ function Gallery() {
   return (
     <GalleryContainer>
       <GalleryTitle>{t('common:Gallery')}</GalleryTitle>
-      <GallerySubtitle color={primaryColor}>{t('common:A place to fall in love with')}</GallerySubtitle>
+      <GallerySubtitle color={primaryColor}>
+        {t('common:A place to fall in love with')}
+      </GallerySubtitle>
       <GalleryWrap>
         {imageData.map((image) => (
-          <GalleryImage key={image.src} gridColumn={image.style.gridColumn} gridRow={image.style.gridRow} src={image.src}>
+          <GalleryImage
+            key={image.src}
+            gridColumn={image.style.gridColumn}
+            gridRow={image.style.gridRow}
+            src={image.src}
+          >
             <GalleryImageDarken />
           </GalleryImage>
         ))}

@@ -1,8 +1,8 @@
 import Head from 'next/head';
-import fontFaces from '../constants/fontsSetup';
 import { createGlobalStyle } from 'styled-components/macro';
+import fontFaces from '../constants/fontsSetup';
 import { darkGrayColor } from '../constants/websiteColors';
-import Pixel from '../components/Pixel'
+import Pixel from '../components/pixel';
 
 const GlobalStyle = createGlobalStyle`
 ${fontFaces}
@@ -20,10 +20,11 @@ html {
 }
 `;
 
+// eslint-disable-next-line react/prop-types
 function MyApp({ Component, pageProps }) {
   return (
     <>
-      <Pixel name='FACEBOOK_PIXEL' />
+      <Pixel name="FACEBOOK_PIXEL" />
       <Head>
         <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
         <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
