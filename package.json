@@ -1,0 +1,23 @@
+{
+  "name": "dywizjon-303-next",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next-translate && next dev",
+    "build": "next-translate && next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "9.5.3",
+    "next-translate": "^0.17.2",
+    "react": "16.13.1",
+    "react-dom": "16.13.1",
+    "react-is": "^16.13.1",
+    "react-map-gl": "^5.2.8",
+    "styled-components": "^5.2.0",
+    "styled-normalize": "^8.0.7"
+  },
+  "devDependencies": {
+    "babel-plugin-macros": "^2.8.0"
+  }
+}

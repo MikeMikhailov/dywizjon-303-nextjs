@@ -1,0 +1,10 @@
+{
+  "allLanguages": ["en", "ru", "pl"],
+  "defaultLanguage": "pl",
+  "currentPagesDir": "pages_",
+  "finalPagesDir": "pages",
+  "localesPath": "locales",
+  "pages": {
+    "*": ["common"]
+  }
+}
