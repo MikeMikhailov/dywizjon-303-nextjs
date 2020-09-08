@@ -115,13 +115,13 @@ function Footer() {
         <FooterContactSection>
           <Heading4>{t('common:Working hours')}</Heading4>
           <Text>
-            Pn — 15:00 - 20:00
+            Pn — 11:00 - 20:00
             <br />
             Wt-Sr — 11:00 - 20:00
             <br />
             Czw-Pt — 8:00 - 20:00
             <br />
-            Sb — 8:00 - 18:00
+            Sb — 10:00 - 18:00
           </Text>
         </FooterContactSection>
       </FooterWrap>
