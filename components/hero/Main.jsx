@@ -85,13 +85,16 @@ const MainServicesContainer = styled.div`
 `;
 
 const MainService = styled.div`
-  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
   & > *:first-child {
     margin-bottom: 20px;
   }
 `;
 
 const MainServiceName = styled(Heading5)`
+  text-align: center;
   margin-bottom: 16px;
   max-width: 100px;
 `;

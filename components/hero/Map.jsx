@@ -18,6 +18,9 @@ const MapContainer = styled.section`
   & > * {
     text-align: center;
   }
+  & > *:last-child {
+    width: 100% !important;
+  }
 `;
 
 const MapSubtitle = styled(Heading4)`
@@ -39,10 +42,9 @@ function Map() {
         mapStyle="mapbox://styles/jayteejee/ckab8ccdh2dt31io598i49sz3"
         mapboxApiAccessToken="pk.eyJ1IjoiamF5dGVlamVlIiwiYSI6ImNrYThrZ2hzbzBkcGoyeG8zc2NtaHQ2YzgifQ.1UiyuJ_rZkCd3W57XTAaPg"
         onViewportChange={(newViewPort) => setViewPort(newViewPort)}
-        style={{ position: 'relative' }}
-        width="100%"
-        height="50vh"
         scrollZoom={false}
+        height="50vh"
+        width="100%"
         {...viewPort}
       >
         <Marker latitude={52.20676099997715} longitude={21.03337213397026}>
