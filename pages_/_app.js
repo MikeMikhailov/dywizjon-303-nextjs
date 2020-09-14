@@ -3,6 +3,7 @@ import { createGlobalStyle } from 'styled-components/macro';
 import fontFaces from '../constants/fontsSetup';
 import { darkGrayColor } from '../constants/websiteColors';
 import Pixel from '../components/pixel';
+import '../utils/firebaseSetup';
 
 const GlobalStyle = createGlobalStyle`
 ${fontFaces}
