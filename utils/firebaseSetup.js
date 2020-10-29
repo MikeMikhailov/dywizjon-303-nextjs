@@ -10,7 +10,7 @@ const firebaseConfig = {
   storageBucket: 'dywizjon-303.appspot.com',
   messagingSenderId: '69401916518',
   appId: '1:69401916518:web:e9c98f928b6658a03e69a7',
-  measurementId: 'G-90FD27N3BC',
+  measurementId: "G-YL1HY2R5C5",
 };
 
 // Check that `window` is in scope for the analytics module!
