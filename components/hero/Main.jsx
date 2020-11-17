@@ -117,17 +117,17 @@ function Main() {
         <MainService>
           <Scissors color={primaryColor} height={60} />
           <MainServiceName>{t('common:Haircut')}</MainServiceName>
-          <Heading3>60zł</Heading3>
+          <Heading3>80zł</Heading3>
         </MainService>
         <MainService>
           <Razor color={primaryColor} height={60} />
           <MainServiceName>{t('common:Beard trim')}</MainServiceName>
-          <Heading3>50zł</Heading3>
+          <Heading3>70zł</Heading3>
         </MainService>
         <MainService>
           <Combo color={primaryColor} height={60} />
           <MainServiceName>{t('common:Combo (hair + beard)')}</MainServiceName>
-          <Heading3>100zł</Heading3>
+          <Heading3>130zł</Heading3>
         </MainService>
       </MainServicesContainer>
       <a
