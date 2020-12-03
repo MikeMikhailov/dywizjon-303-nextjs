@@ -87,7 +87,7 @@ function Works() {
             <Heading4 color={primaryColor}>140zł</Heading4>
           </Work>
           <Work>
-            <Heading4>{t('common:King\'s head shave')}</Heading4>
+            <Heading4>{t('common:Royal head shave')}</Heading4>
             <Heading4 color={primaryColor}>80zł</Heading4>
           </Work>
           <Work>
