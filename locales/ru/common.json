@@ -28,7 +28,10 @@
   "Phone": "Телефон",
   "Working hours": "Рабочие часы",
   "Services": "Услуги",
-  "Junior haircut (10 years)": "Стрижка юнца (10 лет)",
+  "Junior haircut (10 years)": "Стрижка юнца (до 10 лет)",
   "Father + son": "Отец + сын",
-  "Friend + friend": "Друг + друг"
+  "Friend + friend": "Друг + друг",
+  "Head shaving + beard":"Бритье головы + борода",
+  "King's head shave":"Бритье головы короля",
+  "Royal face shave":"Королевское бритье лица"
 }

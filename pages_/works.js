@@ -82,6 +82,18 @@ function Works() {
             <Heading4>{t('common:Friend + friend')}</Heading4>
             <Heading4 color={primaryColor}>130zł</Heading4>
           </Work>
+          <Work>
+            <Heading4>{t('common:Head shaving + beard')}</Heading4>
+            <Heading4 color={primaryColor}>140zł</Heading4>
+          </Work>
+          <Work>
+            <Heading4>{t('common:King\'s head shave')}</Heading4>
+            <Heading4 color={primaryColor}>80zł</Heading4>
+          </Work>
+          <Work>
+            <Heading4>{t('common:Royal face shave')}</Heading4>
+            <Heading4 color={primaryColor}>80zł</Heading4>
+          </Work>
         </WorksWrap>
       </WorksContainer>
       <Footer />

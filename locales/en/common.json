@@ -28,7 +28,10 @@
   "Phone": "Phone",
   "Working hours": "Working hours",
   "Services": "Services",
-  "Junior haircut (10 years)": "Junior haircut (10 years)",
+  "Junior haircut (10 years)": "Junior haircut (up to 10 years)",
   "Father + son": "Father + son",
-  "Friend + friend": "Friend + friend"
+  "Friend + friend": "Friend + friend",
+  "Head shaving + beard":"Head shaving + beard",
+  "King's head shave":"King's head shave",
+  "Royal face shave":"Royal face shave"
 }
