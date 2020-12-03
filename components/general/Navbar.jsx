@@ -138,14 +138,11 @@ function Navbar() {
           </NavbarButton>
         </NavbarHorizontalMenu>
         <NavbarMenu showMobileNav={showMobileNav}>
-          <Heading5>{t('common:BARBERS')}</Heading5>
           <Link href="/works">
             <NavbarLink>
               <Heading5>{t('common:SERVICES')}</Heading5>
             </NavbarLink>
           </Link>
-          <Heading5>{t('common:LOCATIONS')}</Heading5>
-          <Heading5>{t('common:CAREERS')}</Heading5>
         </NavbarMenu>
       </NavbarAdaptiveMenu>
       <NavbarMenu showMobileNav={showMobileNav}>
