@@ -76,11 +76,11 @@ function Works() {
           </Work>
           <Work>
             <Heading4>{t('common:Father + son')}</Heading4>
-            <Heading4 color={primaryColor}>100zł</Heading4>
+            <Heading4 color={primaryColor}>130zł</Heading4>
           </Work>
           <Work>
-            <Heading4>{t('common:Elderly haircut 65+')}</Heading4>
-            <Heading4 color={primaryColor}>40zł</Heading4>
+            <Heading4>{t('common:Friend + friend')}</Heading4>
+            <Heading4 color={primaryColor}>130zł</Heading4>
           </Work>
         </WorksWrap>
       </WorksContainer>
