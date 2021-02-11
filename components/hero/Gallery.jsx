@@ -64,59 +64,45 @@ function Gallery() {
   const { t } = useTranslation();
   const imageData = [
     {
-      src: '/static/images/galleryPhoto1.jpg',
+      src: '/static/images/galleryPhoto1.jpeg',
       style: {
         gridColumn: '1',
         gridRow: '1',
       },
     },
     {
-      src: '/static/images/galleryPhoto2.jpg',
+      src: '/static/images/galleryPhoto2.jpeg',
       style: {
         gridColumn: '2/4',
         gridRow: '1',
       },
     },
     {
-      src: '/static/images/galleryPhoto3.jpg',
+      src: '/static/images/galleryPhoto3.jpeg',
       style: {
         gridColumn: '4/6',
         gridRow: '1/3',
       },
     },
     {
-      src: '/static/images/galleryPhoto4.jpg',
+      src: '/static/images/galleryPhoto4.jpeg',
       style: {
-        gridColumn: '1/3',
+        gridColumn: '1',
         gridRow: '2',
       },
     },
     {
-      src: '/static/images/galleryPhoto5.jpg',
+      src: '/static/images/galleryPhoto5.jpeg',
+      style: {
+        gridColumn: '2',
+        gridRow: '2',
+      },
+    },
+    {
+      src: '/static/images/galleryPhoto6.jpeg',
       style: {
         gridColumn: '3',
         gridRow: '2',
-      },
-    },
-    {
-      src: '/static/images/galleryPhoto6.jpg',
-      style: {
-        gridColumn: '1',
-        gridRow: '3',
-      },
-    },
-    {
-      src: '/static/images/galleryPhoto7.jpg',
-      style: {
-        gridColumn: '2/4',
-        gridRow: '3',
-      },
-    },
-    {
-      src: '/static/images/galleryPhoto8.jpg',
-      style: {
-        gridColumn: '4/6',
-        gridRow: '3',
       },
     },
   ];
