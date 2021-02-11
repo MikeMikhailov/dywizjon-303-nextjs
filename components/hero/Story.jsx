@@ -27,15 +27,6 @@ const StoryContainer = styled.section`
   }
 `;
 
-const StoryImage = styled.img`
-  width: 100%;
-  height: auto;
-  filter: grayscale(100%);
-  @media (min-width: 1200px) {
-    width: calc(100vw / 2 - 10px - 100vw * 245 / 1920);
-  }
-`;
-
 const StoryWrap = styled.div`
   display: flex;
   justify-content: flex-start;
@@ -71,7 +62,6 @@ function Story() {
   const { t } = useTranslation();
   return (
     <StoryContainer>
-      <StoryImage alt="Front view of our barbershop" src="/static/images/storyImage.jpg" />
       <StoryWrap>
         <StoryTitle>{t('common:Who are we?')}</StoryTitle>
         <StorySubtitle color={primaryColor}>
