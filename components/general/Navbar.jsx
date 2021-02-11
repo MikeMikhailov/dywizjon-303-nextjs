@@ -108,6 +108,7 @@ const MobileMenu = styled(Menu)`
 const NavbarLink = styled.a`
   text-decoration: none;
   cursor: pointer;
+  white-space: nowrap;
 `;
 
 const NavbarButton = styled.button`
@@ -141,6 +142,11 @@ function Navbar() {
           <Link href="/works">
             <NavbarLink>
               <Heading5>{t('common:SERVICES')}</Heading5>
+            </NavbarLink>
+          </Link>
+          <Link href="/courses">
+            <NavbarLink>
+              <Heading5>{t('common:BARBER COURSE')}</Heading5>
             </NavbarLink>
           </Link>
         </NavbarMenu>

@@ -1,6 +1,7 @@
 {
   "BARBERS": "BARBERS",
   "SERVICES": "SERVICES",
+  "BARBER COURSE": "BARBER COURSE",
   "LOCATIONS": "LOCATIONS",
   "CAREERS": "CAREERS",
   "Haircut": "Haircut",
@@ -31,7 +32,15 @@
   "Junior haircut (10 years)": "Junior haircut (up to 10 years)",
   "Father + son": "Father + son",
   "Friend + friend": "Friend + friend",
-  "Head shaving + beard":"Head shaving + beard",
-  "Royal head shave":"Royal head shave",
-  "Royal face shave":"Royal face shave"
+  "Head shaving + beard": "Head shaving + beard",
+  "Royal head shave": "Royal head shave",
+  "Royal face shave": "Royal face shave",
+  "We proud": "We are so proud of it and we can't wait for the classes to start!",
+  "General course description": "The course is intended for both beginners and those who already have some experience in the industry. Each student is first invited to an interview in order to set goals and match the appropriate group for him. There will be a maximum of 3 people in each group.",
+  "Course duration": "The course will last 2 months and will contain over 20 lessons. We made such a program that after the course you could safely say that you are a good barber. There will be a lot of practice.",
+  "Course end": "At the end, there will be an exam where you will show everything you have learned.",
+  "After course": "After the course, you will get a certificate that will only prove your skills.",
+  "Course payment": "It is possible to pay in two installments.",
+  "Price": "Price",
+  "Course additional info": "We will provide additional information by phone"
 }

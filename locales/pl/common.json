@@ -1,6 +1,7 @@
 {
   "BARBERS":"BARBERY",
   "SERVICES":"USŁUGI",
+  "BARBER COURSE":"KURS BARBERSKI",
   "LOCATIONS":"LOKALIZACJE",
   "CAREERS":"KARIERA",
   "Haircut":"Strzyżenie włosów",
@@ -33,5 +34,13 @@
   "Friend + friend":"Kolega + kolega",
   "Head shaving + beard":"Golenie głowy + broda",
   "Royal head shave":"Królewskie golenie głowy",
-  "Royal face shave":"Królewskie golenie twarzy"
+  "Royal face shave":"Królewskie golenie twarzy",
+  "We proud":"Jesteśmy bardzo dumni z tego i już nie możemy się doczekać, aż zaczną się zajęcia!",
+  "General course description":"Kurs jest przeznaczony zarówno jak dla osób początkujących, tak i dla tych, którzy już mają pewne doświadczenie w branży. Każdego kursanta najpierw zapraszamy na rozmowę, by ustalić cele i dopasować odpowiednią dla niego grupę. W każdej grupie będzie maksymalnie 3 osoby.",
+  "Course duration":"Kurs będzie trwał 2 miesiące i będzie w sobie zawierał ponad 20 lekcji. Zrobiliśmy taki program, by po kursie mógłbyś śmiało powiedzieć, że jesteś dobrym barberem. Będzie bardzo dużo praktyki.",
+  "Course end":"Na sam koniec, będzie egzamin, gdzie pokażesz wszystko, czego się nauczyłeś(-aś).",
+  "After course":"Po kursie dostaniesz certyfikat, który tylko udowodni twoje umiejętności.",
+  "Course payment":"Istnieje możliwość płatności w dwóch ratach.",
+  "Price":"Koszt",
+  "Course additional info":"Dodatjowe informacje udzielimy wam telefonicznie"
 }
