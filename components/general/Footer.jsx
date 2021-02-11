@@ -121,7 +121,7 @@ function Footer() {
             <br />
             Czw-Pt — 12:00 - 20:00
             <br />
-            Sb — 12:00 - 18:00
+            Sb — 10:00 - 16:00
           </Text>
         </FooterContactSection>
       </FooterWrap>
