@@ -115,7 +115,7 @@ function Footer() {
         <FooterContactSection>
           <Heading4>{t('common:Working hours')}</Heading4>
           <Text>
-            Poniedziaƚek — Nie czynne
+            Poniedziaƚek — 12:00 - 20:00
             <br />
             Wtorek-Piątek — 8:00 - 22:00
             <br />
