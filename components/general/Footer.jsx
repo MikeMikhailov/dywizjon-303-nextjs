@@ -121,7 +121,7 @@ function Footer() {
             <br />
             Sobota — 10:00 - 16:00
             <br />    
-            Niedziela — Nie czynne
+            Niedziela — 11:00 - 16:00
                      
           </Text>
         </FooterContactSection>
