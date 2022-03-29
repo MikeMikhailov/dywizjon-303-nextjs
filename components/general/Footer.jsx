@@ -117,11 +117,11 @@ function Footer() {
           <Text>
             Poniedziaƚek — 15:00 - 20:00 
             <br />
-            Wtorek-Piątek — 8:00 - 22:00
+            Wtorek-Piątek — 10:00 - 21:00
             <br />
-            Sobota — 10:00 - 16:00
+            Sobota — 10:00 - 18:00
             <br />    
-            Niedziela — 11:00 - 16:00
+            Niedziela — nie czynne
                      
           </Text>
         </FooterContactSection>
