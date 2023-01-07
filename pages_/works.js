@@ -60,39 +60,39 @@ function Works() {
         <WorksWrap>
           <Work>
             <Heading4>{t('common:Haircut')}</Heading4>
-            <Heading4 color={primaryColor}>80zł</Heading4>
+            <Heading4 color={primaryColor}>90zł</Heading4>
           </Work>
           <Work>
             <Heading4>{t('common:Beard trim')}</Heading4>
-            <Heading4 color={primaryColor}>70zł</Heading4>
+            <Heading4 color={primaryColor}>80zł</Heading4>
           </Work>
           <Work>
             <Heading4>{t('common:Combo (hair + beard)')}</Heading4>
-            <Heading4 color={primaryColor}>130zł</Heading4>
-          </Work>
-          <Work>
-            <Heading4>{t('common:Junior haircut (10 years)')}</Heading4>
-            <Heading4 color={primaryColor}>60zł</Heading4>
-          </Work>
-          <Work>
-            <Heading4>{t('common:Father + son')}</Heading4>
-            <Heading4 color={primaryColor}>130zł</Heading4>
-          </Work>
-          <Work>
-            <Heading4>{t('common:Friend + friend')}</Heading4>
-            <Heading4 color={primaryColor}>130zł</Heading4>
-          </Work>
-          <Work>
-            <Heading4>{t('common:Head shaving + beard')}</Heading4>
             <Heading4 color={primaryColor}>140zł</Heading4>
           </Work>
           <Work>
+            <Heading4>{t('common:Junior haircut (10 years)')}</Heading4>
+            <Heading4 color={primaryColor}>70zł</Heading4>
+          </Work>
+          <Work>
+            <Heading4>{t('common:Father + son')}</Heading4>
+            <Heading4 color={primaryColor}>150zł</Heading4>
+          </Work>
+          <Work>
+            <Heading4>{t('common:Friend + friend')}</Heading4>
+            <Heading4 color={primaryColor}>150zł</Heading4>
+          </Work>
+          <Work>
+            <Heading4>{t('common:Head shaving + beard')}</Heading4>
+            <Heading4 color={primaryColor}>150zł</Heading4>
+          </Work>
+          <Work>
             <Heading4>{t('common:Royal head shave')}</Heading4>
-            <Heading4 color={primaryColor}>80zł</Heading4>
+            <Heading4 color={primaryColor}>90zł</Heading4>
           </Work>
           <Work>
             <Heading4>{t('common:Royal face shave')}</Heading4>
-            <Heading4 color={primaryColor}>80zł</Heading4>
+            <Heading4 color={primaryColor}>100zł</Heading4>
           </Work>
         </WorksWrap>
       </WorksContainer>
