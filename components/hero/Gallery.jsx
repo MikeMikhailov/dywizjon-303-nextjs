@@ -64,7 +64,7 @@ function Gallery() {
   const { t } = useTranslation();
   const imageData = [
     {
-      src: 'public/static/images/8a4f7ef6-aea6-49f4-9727-edb4858554be.jfif',
+      src: '/static/images/photo_6005980910249425915_y.jpg',
       style: {
         gridColumn: '1',
         gridRow: '1',
