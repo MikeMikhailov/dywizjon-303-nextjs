@@ -41,7 +41,7 @@ function MyApp({ Component, pageProps }) {
         <meta httpEquiv="X-UA-Compatible" content="ie=edge" />
         <meta
           name="description"
-          content="Zdobądź najlepsze fryzury w najlepszych cenach w tym zakładzie fryzjerskim w Warszawie. Zarezerwuj teraz!"
+          content="Najlepsze fryzury w przyjemnych cenach. Tylko w Dywizjonie. Zarezerwuj teraz!"
         />
         <meta name="robots" content="index, follow" />
 
