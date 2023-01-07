@@ -117,7 +117,7 @@ function Main() {
         <MainService>
           <Scissors color={primaryColor} height={60} />
           <MainServiceName>{t('common:Haircut')}</MainServiceName>
-          <Heading3>90zł</Heading3>
+          <Heading3>0zł</Heading3>
         </MainService>
         <MainService>
           <Razor color={primaryColor} height={60} />
