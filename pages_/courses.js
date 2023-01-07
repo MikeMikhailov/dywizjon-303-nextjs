@@ -81,7 +81,7 @@ function Works() {
             {t('common:Price')}
             :
           </Heading4>
-          <Heading4 color={primaryColor}>5325 zł</Heading4>
+          <Heading4 color={primaryColor}>6125 zł</Heading4>
         </DescriptionItem>
 
 
