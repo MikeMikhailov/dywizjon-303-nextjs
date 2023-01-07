@@ -73,8 +73,8 @@ function Gallery() {
     {
       src: 'static/images/photo_5976365641864691168_y.jpg',
       style: {
-        gridColumn: '2/4',
-        gridRow: '1',
+        gridColumn: '1',
+        gridRow: '2',
       },
     },
     {
