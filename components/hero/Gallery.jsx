@@ -105,6 +105,13 @@ function Gallery() {
         gridRow: '2',
       },
     },
+     {
+      src: '/static/images/c7e21aca-37f8-4ce4-8596-4c4b030f7d9a.jpeg',
+      style: {
+        gridColumn: '4',
+        gridRow: '1',
+      },
+    },
   ];
   return (
     <GalleryContainer>
