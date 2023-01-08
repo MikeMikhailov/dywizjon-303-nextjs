@@ -99,7 +99,7 @@ function Gallery() {
       },
     },
     {
-      src: '/static/images/galleryPhoto6.jpeg',
+      src: 'public/static/images/photo_5897790946056191469_y.jpg',
       style: {
         gridColumn: '3',
         gridRow: '2',
