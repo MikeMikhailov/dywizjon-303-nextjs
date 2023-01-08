@@ -92,10 +92,10 @@ function Gallery() {
       },
     },
     {
-      src: '/static/images/galleryPhoto5.jpeg',
+      src: '/static/images/photo_5321322518646210724_y.jpg',
       style: {
-        gridColumn: '2',
-        gridRow: '2',
+        gridColumn: '3',
+        gridRow: '1',
       },
     },
     {
