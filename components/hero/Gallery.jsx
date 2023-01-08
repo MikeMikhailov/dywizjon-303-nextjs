@@ -78,10 +78,10 @@ function Gallery() {
       },
     },
     {
-      src: '/static/images/galleryPhoto3.jpeg',
+      src: '/static/images/photo_5897790946056191458_x.jpg',
       style: {
-        gridColumn: '4/6',
-        gridRow: '1/3',
+        gridColumn: '2',
+        gridRow: '2',
       },
     },
     {
