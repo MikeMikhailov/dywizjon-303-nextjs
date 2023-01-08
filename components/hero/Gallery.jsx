@@ -85,10 +85,10 @@ function Gallery() {
       },
     },
     {
-      src: '/static/images/galleryPhoto4.jpeg',
+      src: '/static/images/photo_5897790946056191465_y.jpg',
       style: {
-        gridColumn: '1',
-        gridRow: '2',
+        gridColumn: '2',
+        gridRow: '1',
       },
     },
     {
