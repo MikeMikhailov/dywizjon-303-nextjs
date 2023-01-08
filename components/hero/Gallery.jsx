@@ -119,6 +119,28 @@ function Gallery() {
         gridRow: '2',
       },
     },
+     {
+      src: '/static/images/photo_5897790946056191483_y.jpg',
+      style: {
+        gridColumn: '4',
+        gridRow: '2',
+      },
+    },
+      {
+      src: '/static/images/IMG_3713.JPG',
+      style: {
+        gridColumn: '5',
+        gridRow: '1',
+      },
+    },
+     {
+      src: '/static/images/IMG_3792.JPG',
+      style: {
+        gridColumn: '5',
+        gridRow: '2',
+      },
+    },
+    
   ];
   return (
     <GalleryContainer>
