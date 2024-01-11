@@ -127,7 +127,7 @@ function Main() {
         <MainService>
           <Combo color={primaryColor} height={60} />
           <MainServiceName>{t('common:Combo (hair + beard)')}</MainServiceName>
-          <Heading3>140zł</Heading3>
+          <Heading3>150zł</Heading3>
         </MainService>
       </MainServicesContainer>
       <a
